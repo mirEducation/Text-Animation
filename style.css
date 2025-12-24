@@ -8,6 +8,14 @@ body {
     font-variant: normal;
 }
 
-.second {
-    color: green;
+button {
+    bottom: 25vh;
+    left: 100vh;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    font-variant: normal;
+    text-align: center;
 }
