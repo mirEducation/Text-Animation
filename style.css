@@ -1,0 +1,13 @@
+body {
+    height: 97vh;
+    vertical-align: middle;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-variant: normal;
+}
+
+.second {
+    color: green;
+}
